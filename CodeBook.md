@@ -75,12 +75,12 @@ tBodyGyroMean
 tBodyGyroJerkMean
 
 Based on the "activity_labels.txt" file from the original data set, the values of the activity column was updated, using the following transformation rule:
-1 = "WALKING"
-2 = "WALKING_UPSTAIRS"
-3 = "WALKING_DOWNSTAIRS"
-4 = "SITTING"
-5 = "STANDING"
-6 = "LAYING"
+- 1 = "WALKING"
+- 2 = "WALKING_UPSTAIRS"
+- 3 = "WALKING_DOWNSTAIRS"
+- 4 = "SITTING"
+- 5 = "STANDING"
+- 6 = "LAYING"
 
 Finally,  an independent tidy data set with the average of each variable for each activity and each subject was created.
 
